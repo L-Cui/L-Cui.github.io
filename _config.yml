@@ -171,6 +171,7 @@ plugins:
   - jekyll-target-blank
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-include-cache
 
 # Sitemap settings
 defaults:
@@ -211,8 +212,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Leilei
+  first_name: Cui
 
   style: apa
   locale: en
